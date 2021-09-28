@@ -3,8 +3,8 @@ package typescript_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/typescript/typescript"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/typescript/typescript"
 	"github.com/stretchr/testify/assert"
 )
 

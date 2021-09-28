@@ -3,8 +3,8 @@ package javascript_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/javascript"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/javascript"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package csharp_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/csharp"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/csharp"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package yaml_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/yaml"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/yaml"
 	"github.com/stretchr/testify/assert"
 )
 
