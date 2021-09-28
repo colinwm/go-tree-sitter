@@ -3,8 +3,8 @@ package svelte_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/svelte"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/svelte"
 	"github.com/stretchr/testify/assert"
 )
 

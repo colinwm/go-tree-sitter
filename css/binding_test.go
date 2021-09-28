@@ -3,8 +3,8 @@ package css_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/css"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/css"
 	"github.com/stretchr/testify/assert"
 )
 

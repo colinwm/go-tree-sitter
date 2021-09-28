@@ -3,8 +3,8 @@ package cpp_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/cpp"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/cpp"
 	"github.com/stretchr/testify/assert"
 )
 

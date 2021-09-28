@@ -3,8 +3,8 @@ package php_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/php"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/php"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package ocaml_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/ocaml"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/ocaml"
 	"github.com/stretchr/testify/assert"
 )
 

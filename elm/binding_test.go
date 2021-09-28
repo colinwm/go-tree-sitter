@@ -3,8 +3,8 @@ package elm_test
 import (
 	"testing"
 
-	sitter "github.com/smacker/go-tree-sitter"
-	"github.com/smacker/go-tree-sitter/elm"
+	sitter "github.com/colinwm/go-tree-sitter"
+	"github.com/colinwm/go-tree-sitter/elm"
 	"github.com/stretchr/testify/assert"
 )
 
